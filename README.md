@@ -1,98 +1,82 @@
-# Dandy's World Script - Game Script Utility 2026
+# 🎮 dandys-world-script-hub - Enhance your Dandy's World gaming experience
 
-> A browser-run script for Dandy's World on HTML, built around a smart workflow for aimbot-related actions and private server access.
+[![Download Now](https://img.shields.io/badge/Download-Release-blue)](https://github.com/mrale7119/dandys-world-script-hub)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-HTML-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/hughesalex2001/dandys-world-script-hub?style=flat-square)](https://github.com/hughesalex2001/dandys-world-script-hub)
+## 📋 Project Overview
 
----
+The dandys-world-script-hub provides an automated workflow for Dandy's World. The tool runs within your web browser. It manages aimbot functions and grants access to private game servers. You use this tool to save time during gameplay and to organize your interaction with the game environment. The script functions as an assistant to handle repetitive tasks while you play.
 
-<p align="center">
-  <a href="https://hughesalex2001.github.io/dandys-world-script-hub/">
-    <img src="https://img.shields.io/badge/Download-Dandy%27s%20World%20Script-brightgreen?style=for-the-badge" alt="Download Dandy's World Script">
-  </a>
-</p>
+## ⚙️ System Requirements
 
-> **[Direct Download - Dandy's World](https://hughesalex2001.github.io/dandys-world-script-hub/)**
+Ensure your computer meets these requirements before you start:
 
----
+*   Operating System: Windows 10 or Windows 11.
+*   Browser: Google Chrome, Microsoft Edge, or Brave. 
+*   Memory: 4 GB RAM or higher.
+*   Connection: Stable internet access.
 
-[Download Latest Build](https://hughesalex2001.github.io/dandys-world-script-hub/)
+## 🛠️ How to Download and Install
 
----
+Follow these steps to prepare your browser for the script. 
 
-## What it is
+1. Visit the project page to download the necessary files: [https://github.com/mrale7119/dandys-world-script-hub](https://github.com/mrale7119/dandys-world-script-hub).
+2. Locate the "Code" button on the screen.
+3. Select "Download ZIP" from the menu.
+4. Save the folder to your desktop.
+5. Right-click the folder and select "Extract All" to open the contents.
 
-Dandy's World Script is a script utility for HTML-oriented usage tied to Dandy's World. It focuses on script-based gameplay assistance and includes support for aimbot behavior as well as private server access. Framed as a smart script, it is aimed at users who want a compact tool centered on specific in-game control tasks.
+## 🚀 Getting Started
 
-This project is a utility script, not a full application. In practice, that means the main workflow is to load or place it in the intended environment and use the controls it provides. Any future changes are likely to stay centered on behavior, compatibility, and the overall gameplay flow.
+You need a script executor extension to run the files. Follow this process to set up your environment.
 
-## Script Capabilities
+1. Open your web browser.
+2. Navigate to the extensions store for your browser.
+3. Search for a trusted script injector or tamper-monkey extension.
+4. Click "Add to Browser" to install the extension.
+5. Pin the extension to your toolbar for access.
+6. Click the extension icon.
+7. Select "Create New Script" or "Import File."
+8. Choose the script file you extracted from your desktop folder.
+9. Save the changes.
 
-- Aimbot support for gameplay targeting assistance
-- Private server access support
-- Smart script structure for streamlined use
-- HTML platform compatibility
-- Lightweight utility format for script-based loading
-- Game-specific design for Dandy's World
-- Suitable for updating or replacing script builds as needed
+## 🕹️ Running the Script
 
-## Getting Started
+Once you install the script, you must activate it during your game session.
 
-1. Download the latest build from the link above.
-2. Place or load the script in the environment used for the HTML version of Dandy's World.
-3. If the build includes a local folder, keep the script files together when moving them.
-4. Start the game environment and activate the script according to your loader or browser workflow.
+1. Launch Dandy's World in your web browser.
+2. Wait for the game to load completely.
+3. Click the extension icon on your browser toolbar.
+4. Toggle the switch for the dandys-world-script-hub to "On."
+5. A control panel appears on your screen.
+6. Select your preferences for aimbot assistance and private server access.
+7. Click "Apply" to start the automated workflow.
 
-Example structure:
+## 🛡️ Best Practices
 
-- `dandys-world-cl43/`
-  - script files
-  - related assets
-  - README.md
+Keep your account secure by observing these guidelines. Run the script only when you play actively. Avoid sharing your session tokens with others. Keep your script version updated by checking the repository page regularly. If the game updates, the script might require a refresh. Disable the script if you experience lag or performance drops in your browser. 
 
-## Configuration
+## ❓ Troubleshooting Common Issues
 
-Some releases may expose settings through a compact config section or built-in toggles.
+If the script fails to load, try these steps:
 
-| Option | Purpose |
-| --- | --- |
-| Aimbot | Enables targeting-related behavior |
-| Private Server Access | Uses the private server-oriented feature set |
-| Smart Mode | Applies the script's built-in logic flow |
-| Load Method | Depends on your HTML/game loading setup |
+*   Refresh your game page.
+*   Check if you have the latest version of your browser.
+*   Ensure that no other script extensions conflict with the tool.
+*   Clear your browser cache to remove old data.
+*   Reinstall the script through the extension menu if the control panel does not appear.
 
-If the release includes editable values, adjust them before running the script in your chosen environment.
+## 💡 Frequently Asked Questions
 
-## Compatibility Notes
+Does the script work on mobile devices?
+The script works only on desktop browsers that support extension injectors.
 
-- Target game: Dandy's World
-- Platform: HTML
-- Type: script utility
-- Known limitation: behavior depends on the host page, loader, and game version you are using
+Is this tool safe for my game account?
+The tool modifies local browser data. Use common sense and follow the game rules.
 
-Because this is a script-based project, results may vary if the game layout, client structure, or loading method changes.
+How do I update the script?
+Download the most recent file from the link above and replace the old file in your extension settings.
 
-## Common Questions
+Will this work on non-private servers?
+Yes, the aimbot features function on both private and public servers.
 
-### How do I install it?
-Download the build, then place or load the script in the HTML environment used for Dandy's World.
-
-### Is this a standalone app?
-No. It is presented as a script utility, so it is meant to be used inside a compatible game or browser setup.
-
-### Can I customize it?
-If the script exposes options or values, you can adjust them before loading. Check the included files for editable settings.
-
-### Will it work on every version?
-Compatibility depends on the current HTML/game environment and any changes to the target experience.
-
-### Where should I keep the files?
-Store the folder contents together so the script and any related assets remain in the expected structure.
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: script, aimbot, browser, windows, gaming, automation
